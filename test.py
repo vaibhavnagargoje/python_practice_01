@@ -98,8 +98,8 @@
 # # s1=student( )
 
 # # s1=student('vaibhav',21,'coder','and something')
-# # s2= student('maggi',19,'coding lover','sweet')
-# # s1.a='soonali'
+# # s2= student('mauli',19,'coding lover','sweet')
+# # s1.a='mauli'
 # # s1.execute()
 # # s2.execute()
 
