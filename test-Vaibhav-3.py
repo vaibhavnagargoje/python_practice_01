@@ -189,33 +189,6 @@
 
 
 
-
-
-
-
-
-
-
-
-# code starting with here 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # # # warite a program to determine whether a person is eligibal to vote
 
 # # age = int(input("enter your age:"))
@@ -496,7 +469,7 @@
 
 
 # import pyfiglet
-# a= pyfiglet.figlet_format("happay birthday    ")
+# a= pyfiglet.figlet_format("happay birthday    snehal")
 # print(a)
 
 # x=0
@@ -4301,7 +4274,7 @@
 
 # # Program to illustrate the use of duplicate keys in a dictionary
 
-# dict1 = {"roll":12,"name":"vaibhav","cource":"bcs","name":"sanket"}
+# dict1 = {"roll":12,"name":"vaibhav","cource":"bcs","name":"snehal"}
 # print(dict1)
 # print("dict[roll]",dict1["roll"])
 # print("dict['name']",dict1['name'])
@@ -4506,7 +4479,7 @@
 # # Write a program that has dictionary of names of students and a list of their marks in 4 subjects. create another dictionary form this dictionary that has name of the 
 # # student and their total marks. Find out the  topper and his/her score.
 
-# mark = { "vaibhav":[78,98,89,88],"gajanan":[99,89,87,98],"soni":[23,75,65,35]}
+# mark = { "vaibhav":[78,98,89,88],"snehal":[99,89,87,98],"soni":[23,75,65,35]}
 # total= 0
 # a = mark["vaibhav"]
 # print(a)
@@ -4886,8 +4859,6 @@
 # nlist = (x**2 for x in list1)
 # for i in range(10):
 #     print(next(nlist),end=" ")
-
-
 
 
 
